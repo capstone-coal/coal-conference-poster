@@ -211,7 +211,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1796875"
-     inkscape:cx="4015.3043"
+     inkscape:cx="3456"
      inkscape:cy="2304"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -227,8 +227,8 @@
      showguides="false"
      objecttolerance="10"
      gridtolerance="10"
-     inkscape:measure-start="2256,1440"
-     inkscape:measure-end="1920,1440"
+     inkscape:measure-start="2400,1440"
+     inkscape:measure-end="3120,1440"
      guidetolerance="10">
     <sodipodi:guide
        position="0,0"
@@ -545,12 +545,12 @@
        x="4656"
        y="384" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:13.26862526;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:12.08335114;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5185"
-       width="527.99988"
-       height="330.73822"
-       x="2928"
-       y="3268.2864"
+       width="335.99988"
+       height="431.0246"
+       x="3120"
+       y="3168"
        ry="0" />
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:16.83859253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -678,12 +678,12 @@
        sodipodi:absref="/media/study/coal/agu/poster/angles_dark.png"
        xlink:href="angles_dark.png"
        style="display:inline"
-       y="3268.2864"
+       y="3148.0178"
        x="2400"
        id="image508"
        preserveAspectRatio="none"
-       height="330.73825"
-       width="528" />
+       height="451.00671"
+       width="720" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-034227_1920x1080_scrot_crop.png"
        xlink:href="2017-10-24-034227_1920x1080_scrot_crop.png"
@@ -4026,14 +4026,14 @@
        transform="translate(685.4782,-381.7338)"><flowRegion
          id="flowRegion5191"><rect
            id="rect5193"
-           width="491.59903"
-           height="449.36389"
-           x="2261.0078"
-           y="3667.5178" /></flowRegion><flowPara
+           width="288.00018"
+           height="432.00009"
+           x="2434.5217"
+           y="3597.7339" /></flowRegion><flowPara
          id="flowPara5195"
          style="fill:#ffffff"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold'"
-   id="flowSpan5197">Figure 5:</flowSpan> For each pixel, spectral angle mapper (SAM) classification computes a confidence value for each class in a spectral library (Figure 6) and chooses the one with the maximum value above some threshold. SAM is one of many possible classification algorithms.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan5197">Figure 5:</flowSpan> In SAM classification, each pixel is compared with each sample in the spectral library (Figure 6) and classified as the sample with the highest confidence value above some threshold.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5199"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
