@@ -349,7 +349,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Base"
-     style="display:inline">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <image
        sodipodi:absref="/media/study/coal/agu/poster/logo-nasa-jpl-caltech.png"
        xlink:href="logo-nasa-jpl-caltech.png"
@@ -466,7 +466,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.22546577;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4614"
@@ -649,11 +649,11 @@
          id="flowPara4850" /><flowPara
          style="fill:#ffffff"
          id="flowPara4866">[8] Nulla facilisi. In in pellentesque velit.</flowPara></flowRoot>    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:22.23158836;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:21.74292183;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4929"
-       width="1104"
+       width="1056"
        height="263.93484"
-       x="1152"
+       x="1200"
        y="3960.0649" />
     <flowRoot
        xml:space="preserve"
@@ -1005,7 +1005,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Images"
-     style="display:inline">
+     style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aviris.jpg"
        xlink:href="aviris.jpg"
