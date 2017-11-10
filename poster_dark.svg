@@ -44,7 +44,7 @@
      inkscape:cx="3456"
      inkscape:cy="2304"
      inkscape:document-units="in"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
@@ -54,7 +54,7 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
-     showguides="true"
+     showguides="false"
      objecttolerance="10"
      gridtolerance="10"
      inkscape:measure-start="672,1088.08"
@@ -171,7 +171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,12 +183,12 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/logo-nasa-jpl-caltech.png"
        xlink:href="logo-nasa-jpl-caltech.png"
-       y="4325.5654"
-       x="5789.2173"
-       id="image294"
-       preserveAspectRatio="none"
+       width="1021.4381"
        height="191.87234"
-       width="1021.4381" />
+       preserveAspectRatio="none"
+       id="image294"
+       x="5789.2173"
+       y="4325.5654" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot48"
@@ -232,21 +232,21 @@
          id="flowPara6130">&lt;browtayl@oregonstate.edu&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/alga.png"
        xlink:href="alga.png"
-       y="4320"
-       x="1725.7444"
-       id="image378"
-       preserveAspectRatio="none"
+       width="191.99994"
        height="191.99994"
-       width="191.99994" />
+       preserveAspectRatio="none"
+       id="image378"
+       x="1725.7444"
+       y="4320" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/1165719.jpeg"
        xlink:href="1165719.jpeg"
-       y="4333.7734"
-       x="3965.7732"
-       id="image443"
-       preserveAspectRatio="none"
+       width="164.45361"
        height="164.45361"
-       width="164.45361" />
+       preserveAspectRatio="none"
+       id="image443"
+       x="3965.7732"
+       y="4333.7734" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6388"
@@ -276,21 +276,21 @@
          id="flowPara6130-9">&lt;lewis.mcgibbney@gmail.com&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/OSU_horizontal_2C_O_over_B.png"
        xlink:href="OSU_horizontal_2C_O_over_B.png"
-       width="625.9715"
-       height="200.25604"
-       preserveAspectRatio="none"
-       id="image1095"
+       y="4326.4409"
        x="111.637"
-       y="4326.4409" />
+       id="image1095"
+       preserveAspectRatio="none"
+       height="200.25604"
+       width="625.9715" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/new-background_2880_5184.png"
        xlink:href="new-background_2880_5184.png"
-       width="6911.9995"
-       height="3840"
-       preserveAspectRatio="none"
-       id="image365"
+       y="384"
        x="2.2737368e-13"
-       y="384" />
+       id="image365"
+       preserveAspectRatio="none"
+       height="3840"
+       width="6911.9995" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -784,7 +784,29 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold'"
    id="flowSpan4727">Figure 1:</flowSpan> (Background) COAL mining classifications, visible-light imagery, and geography of the San Juan Coal Mine. Orange and red pixels were identified as proxy classes for coal mining. Observe their distribution around ponds, reservoirs, streams, and mine facilities. The imagery was from AVIRIS-NG Flight <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-   id="flowSpan4735">ang20150420t</flowSpan> [?] and the geographic data was from The National Map [?].</flowPara></flowRoot>  </g>
+   id="flowSpan4735">ang20150420t</flowSpan> [?] and the geographic data was from The National Map [?].</flowPara></flowRoot>    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:13.3737545;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5185-6"
+       width="527.99988"
+       height="335.99994"
+       x="3456"
+       y="1273.1384"
+       ry="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5189-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1213.4783,-2376.8817)"><flowRegion
+         id="flowRegion5191-5"><rect
+           id="rect5193-3"
+           width="431.99997"
+           height="367.96811"
+           x="2290.5217"
+           y="3672.8816" /></flowRegion><flowPara
+         id="flowPara5195-5"
+         style="fill:#ffffff"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold'"
+   id="flowSpan5197-6">Figure ?:</flowSpan> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac massa tristique, blandit nisl sit amet, ullamcorper enim. Maecenas nisl nulla, elementum eget enim blandit, hendrerit euismod augue.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -793,93 +815,103 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aviris.jpg"
        xlink:href="aviris.jpg"
-       width="528"
-       height="303.28571"
-       preserveAspectRatio="none"
-       id="image768"
+       y="3222.9246"
        x="144"
-       y="3222.9246" />
+       id="image768"
+       preserveAspectRatio="none"
+       height="303.28571"
+       width="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/hyspiri-in-space_crop.png"
        xlink:href="hyspiri-in-space_crop.png"
-       width="528"
-       height="297.84616"
-       preserveAspectRatio="none"
-       id="image1030"
+       y="3519.1104"
        x="672"
-       y="3519.1104" />
+       id="image1030"
+       preserveAspectRatio="none"
+       height="297.84616"
+       width="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aster.jpg"
        xlink:href="aster.jpg"
-       width="528"
-       height="297.03201"
-       preserveAspectRatio="none"
-       id="image898"
+       y="3519.9246"
        x="144"
-       y="3519.9246" />
+       id="image898"
+       preserveAspectRatio="none"
+       height="297.03201"
+       width="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/splib06.png"
        xlink:href="splib06.png"
-       width="2112"
-       height="317.83862"
-       preserveAspectRatio="none"
-       id="image687"
+       y="3648"
        x="2400"
-       y="3648" />
+       id="image687"
+       preserveAspectRatio="none"
+       height="317.83862"
+       width="2112" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/6338300043_1054508fd9_o.jpg"
        xlink:href="6338300043_1054508fd9_o.jpg"
-       width="528"
-       height="396.10736"
-       preserveAspectRatio="none"
-       id="image400"
+       y="528"
        x="1728"
-       y="528" />
+       id="image400"
+       preserveAspectRatio="none"
+       height="396.10736"
+       width="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-03-04-055905_1920x1080_scrot_crop_trans.png"
        xlink:href="2017-03-04-055905_1920x1080_scrot_crop_trans.png"
-       width="1056"
-       height="731.65704"
-       preserveAspectRatio="none"
-       id="image622"
+       y="3228.408"
        x="1200"
-       y="3228.408" />
+       id="image622"
+       preserveAspectRatio="none"
+       height="731.65704"
+       width="1056" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/avirisng.jpg"
        xlink:href="avirisng.jpg"
-       width="528"
-       height="297"
-       preserveAspectRatio="none"
-       id="image833"
+       y="3222.9246"
        x="672"
-       y="3222.9246" />
+       id="image833"
+       preserveAspectRatio="none"
+       height="297"
+       width="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-032623_1920x1080_scrot_crop.png"
        xlink:href="2017-10-24-032623_1920x1080_scrot_crop.png"
-       width="1054.0505"
-       height="575.99988"
-       preserveAspectRatio="none"
-       id="image557"
+       y="528"
        x="5712"
-       y="528" />
+       id="image557"
+       preserveAspectRatio="none"
+       height="575.99988"
+       width="1054.0505" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/angles_dark.png"
        xlink:href="angles_dark.png"
-       style="display:inline"
-       y="3268.2864"
-       x="2400"
-       id="image508"
-       preserveAspectRatio="none"
+       width="528"
        height="330.73825"
-       width="528" />
+       preserveAspectRatio="none"
+       id="image508"
+       x="2400"
+       y="3268.2864"
+       style="display:inline" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-034227_1920x1080_scrot_crop.png"
        xlink:href="2017-10-24-034227_1920x1080_scrot_crop.png"
-       width="1056"
-       height="505.95404"
-       preserveAspectRatio="none"
-       id="image492"
+       y="528"
        x="2400"
-       y="528" />
+       id="image492"
+       preserveAspectRatio="none"
+       height="505.95404"
+       width="1056" />
+    <image
+       sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-023839_1920x1080_scrot_396_crop.png"
+       xlink:href="2017-10-24-023839_1920x1080_scrot_396_crop.png"
+       width="528"
+       height="336"
+       preserveAspectRatio="none"
+       id="image294-3"
+       x="3984"
+       y="1273.1384"
+       style="display:inline" />
   </g>
 </svg>
