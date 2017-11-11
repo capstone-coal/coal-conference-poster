@@ -481,9 +481,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2541165"
-     inkscape:cx="2014.3872"
-     inkscape:cy="1293.1369"
+     inkscape:zoom="0.1796875"
+     inkscape:cx="3456"
+     inkscape:cy="2304"
      inkscape:document-units="in"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -896,24 +896,15 @@
        height="303.28571"
        width="528" />
     <image
-       sodipodi:absref="/media/study/coal/agu/poster/HyspIRI_crop.png"
-       xlink:href="HyspIRI_crop.png"
-       style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-       width="528.72089"
-       height="297.8461"
+       sodipodi:absref="/media/study/coal/agu/poster/ASTER_Satellite_crop.png"
+       xlink:href="ASTER_Satellite_crop.png"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       width="528"
+       height="297.37933"
        preserveAspectRatio="none"
-       id="image5997"
-       x="671.27911"
-       y="3519.1104" />
-    <image
-       sodipodi:absref="/media/study/coal/agu/poster/aster.jpg"
-       xlink:href="aster.jpg"
-       y="3519.9246"
+       id="image6128"
        x="144"
-       id="image898"
-       preserveAspectRatio="none"
-       height="297.03201"
-       width="528" />
+       y="3519.5771" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/splib06.png"
        xlink:href="splib06.png"
@@ -6006,6 +5997,16 @@
         </g>
       </g>
     </g>
+    <image
+       sodipodi:absref="/media/study/coal/agu/poster/HyspIRI_crop.png"
+       xlink:href="HyspIRI_crop.png"
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+       width="528"
+       height="297.44"
+       preserveAspectRatio="none"
+       id="image5997"
+       x="672"
+       y="3519.5164" />
   </g>
   <g
      inkscape:groupmode="layer"
