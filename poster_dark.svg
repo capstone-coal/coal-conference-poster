@@ -495,7 +495,7 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
-     showguides="false"
+     showguides="true"
      objecttolerance="10"
      gridtolerance="10"
      inkscape:measure-start="2400,1440"
@@ -603,6 +603,16 @@
        orientation="-48,0"
        id="guide4880"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="-350.6087,2160"
+       orientation="0,197.56522"
+       id="guide1231"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-975.93033,1663.968"
+       orientation="0,834.26302"
+       id="guide1237"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3771">
@@ -619,13 +629,13 @@
   <image
      sodipodi:absref="/media/study/coal/agu/poster/Tribrand_ColorBlack_rgb_16x3_160601.png"
      xlink:href="Tribrand_ColorBlack_rgb_16x3_160601.png"
-     style="stroke-linecap:butt;stroke-linejoin:round"
-     width="1140.7275"
-     height="316.86877"
-     preserveAspectRatio="none"
-     id="image5917"
+     y="4256.8877"
      x="5715.2725"
-     y="4256.8877" />
+     id="image5917"
+     preserveAspectRatio="none"
+     height="316.86877"
+     width="1140.7275"
+     style="stroke-linecap:butt;stroke-linejoin:round" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -678,23 +688,23 @@
          id="flowPara6130">&lt;browtayl@oregonstate.edu&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/alga.png"
        xlink:href="alga.png"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="191.99994"
-       height="191.99994"
-       preserveAspectRatio="none"
-       id="image378"
+       y="4320"
        x="1725.7444"
-       y="4320" />
+       id="image378"
+       preserveAspectRatio="none"
+       height="191.99994"
+       width="191.99994"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/1165719.jpeg"
        xlink:href="1165719.jpeg"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="164.45361"
-       height="164.45361"
-       preserveAspectRatio="none"
-       id="image443"
+       y="4333.7734"
        x="3965.7732"
-       y="4333.7734" />
+       id="image443"
+       preserveAspectRatio="none"
+       height="164.45361"
+       width="164.45361"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6388"
@@ -728,23 +738,23 @@
          id="flowPara6130-9">&lt;lewis.mcgibbney@gmail.com&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/OSU_horizontal_2C_O_over_B.png"
        xlink:href="OSU_horizontal_2C_O_over_B.png"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       y="4316.4409"
-       x="111.637"
-       id="image1095"
-       preserveAspectRatio="none"
+       width="625.9715"
        height="200.25604"
-       width="625.9715" />
+       preserveAspectRatio="none"
+       id="image1095"
+       x="111.637"
+       y="4316.4409"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/new-background_2880_5184.png"
        xlink:href="new-background_2880_5184.png"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       y="384"
-       x="2.2737368e-13"
-       id="image365"
-       preserveAspectRatio="none"
+       width="6911.9995"
        height="3840"
-       width="6911.9995" />
+       preserveAspectRatio="none"
+       id="image365"
+       x="2.2737368e-13"
+       y="384"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -889,86 +899,86 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aviris.jpg"
        xlink:href="aviris.jpg"
-       y="3222.9246"
-       x="144"
-       id="image768"
-       preserveAspectRatio="none"
+       width="528"
        height="303.28571"
-       width="528" />
+       preserveAspectRatio="none"
+       id="image768"
+       x="144"
+       y="3222.9246" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/ASTER_Satellite_crop.png"
        xlink:href="ASTER_Satellite_crop.png"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="528"
-       height="297.37933"
-       preserveAspectRatio="none"
-       id="image6128"
+       y="3519.5771"
        x="144"
-       y="3519.5771" />
+       id="image6128"
+       preserveAspectRatio="none"
+       height="297.37933"
+       width="528"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/splib06.png"
        xlink:href="splib06.png"
-       y="3648"
-       x="2400"
-       id="image687"
-       preserveAspectRatio="none"
+       width="2112"
        height="317.83862"
-       width="2112" />
+       preserveAspectRatio="none"
+       id="image687"
+       x="2400"
+       y="3648" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/6338300043_1054508fd9_o.jpg"
        xlink:href="6338300043_1054508fd9_o.jpg"
-       y="528"
-       x="1728"
-       id="image400"
-       preserveAspectRatio="none"
+       width="528"
        height="396.10736"
-       width="528" />
+       preserveAspectRatio="none"
+       id="image400"
+       x="1728"
+       y="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-03-04-055905_1920x1080_scrot_crop_trans.png"
        xlink:href="2017-03-04-055905_1920x1080_scrot_crop_trans.png"
-       y="3228.408"
-       x="1200"
-       id="image622"
-       preserveAspectRatio="none"
+       width="1056"
        height="731.65704"
-       width="1056" />
+       preserveAspectRatio="none"
+       id="image622"
+       x="1200"
+       y="3228.408" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/avirisng.jpg"
        xlink:href="avirisng.jpg"
-       y="3222.9246"
-       x="672"
-       id="image833"
-       preserveAspectRatio="none"
+       width="528"
        height="297"
-       width="528" />
+       preserveAspectRatio="none"
+       id="image833"
+       x="672"
+       y="3222.9246" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-032623_1920x1080_scrot_crop.png"
        xlink:href="2017-10-24-032623_1920x1080_scrot_crop.png"
-       y="528"
-       x="5712"
-       id="image557"
-       preserveAspectRatio="none"
+       width="1054.0505"
        height="575.99988"
-       width="1054.0505" />
+       preserveAspectRatio="none"
+       id="image557"
+       x="5712"
+       y="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-034227_1920x1080_scrot_crop.png"
        xlink:href="2017-10-24-034227_1920x1080_scrot_crop.png"
-       y="528"
-       x="2400"
-       id="image492"
-       preserveAspectRatio="none"
+       width="1056"
        height="505.95404"
-       width="1056" />
+       preserveAspectRatio="none"
+       id="image492"
+       x="2400"
+       y="528" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/2017-10-24-023839_1920x1080_scrot_396_crop.png"
        xlink:href="2017-10-24-023839_1920x1080_scrot_396_crop.png"
-       width="528"
-       height="336"
-       preserveAspectRatio="none"
-       id="image294-3"
-       x="3984"
+       style="display:inline"
        y="1273.1384"
-       style="display:inline" />
+       x="3984"
+       id="image294-3"
+       preserveAspectRatio="none"
+       height="336"
+       width="528" />
     <g
        id="figure_1"
        transform="matrix(1.8181818,0,0,1.8181818,1200,2709.8182)"
@@ -6000,13 +6010,13 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/HyspIRI_crop.png"
        xlink:href="HyspIRI_crop.png"
-       style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-       width="528"
-       height="297.44"
-       preserveAspectRatio="none"
-       id="image5997"
+       y="3519.5164"
        x="672"
-       y="3519.5164" />
+       id="image5997"
+       preserveAspectRatio="none"
+       height="297.44"
+       width="528"
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round" />
   </g>
   <g
      inkscape:groupmode="layer"
