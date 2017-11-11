@@ -481,11 +481,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.359375"
-     inkscape:cx="2894.4254"
-     inkscape:cy="1755.9594"
+     inkscape:zoom="0.1796875"
+     inkscape:cx="3456"
+     inkscape:cy="2304"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="svg3766"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
@@ -616,21 +616,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <image
+     sodipodi:absref="/media/study/coal/agu/poster/Tribrand_ColorBlack_rgb_16x3_160601.png"
+     xlink:href="Tribrand_ColorBlack_rgb_16x3_160601.png"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     width="1140.7275"
+     height="316.86877"
+     preserveAspectRatio="none"
+     id="image5917"
+     x="5715.2725"
+     y="4256.8877" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Base"
      style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
-    <image
-       sodipodi:absref="/media/study/coal/agu/poster/logo-nasa-jpl-caltech.png"
-       xlink:href="logo-nasa-jpl-caltech.png"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="1021.4381"
-       height="191.87234"
-       preserveAspectRatio="none"
-       id="image294"
-       x="5789.2173"
-       y="4325.5654" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot48"
