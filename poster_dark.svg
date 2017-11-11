@@ -481,11 +481,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1796875"
-     inkscape:cx="3456"
-     inkscape:cy="2304"
+     inkscape:zoom="0.2541165"
+     inkscape:cx="2014.3872"
+     inkscape:cy="1293.1369"
      inkscape:document-units="in"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
@@ -896,14 +896,15 @@
        height="303.28571"
        width="528" />
     <image
-       sodipodi:absref="/media/study/coal/agu/poster/hyspiri-in-space_crop.png"
-       xlink:href="hyspiri-in-space_crop.png"
-       y="3519.1104"
-       x="672"
-       id="image1030"
+       sodipodi:absref="/media/study/coal/agu/poster/HyspIRI_crop.png"
+       xlink:href="HyspIRI_crop.png"
+       style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
+       width="528.72089"
+       height="297.8461"
        preserveAspectRatio="none"
-       height="297.84616"
-       width="528" />
+       id="image5997"
+       x="671.27911"
+       y="3519.1104" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aster.jpg"
        xlink:href="aster.jpg"
