@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="poster_dark.svg"
-   inkscape:export-filename="/media/study/coal/agu/poster/poster_dark_prelim_draft.png"
-   inkscape:export-xdpi="16.666666"
-   inkscape:export-ydpi="16.666666">
+   inkscape:export-filename="/media/study/coal/agu/poster/poster_dark_draft_2017-12-05_72dpi.png"
+   inkscape:export-xdpi="72.000084"
+   inkscape:export-ydpi="72.000084">
   <defs
      id="defs3768">
     <clipPath
@@ -485,7 +485,7 @@
      inkscape:cx="3456"
      inkscape:cy="2304"
      inkscape:document-units="in"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
      inkscape:showpageshadow="false"
@@ -622,7 +622,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -655,7 +655,7 @@
            y="-162.50691"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#24292e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara54"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#24292e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">COAL                     Coal and Open-pit surface mining impacts on American Lands                     DRAFT</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#24292e;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">COAL                     Coal and Open-pit surface mining impacts on American Lands                     282772</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6082"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -684,7 +684,7 @@
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          style="font-size:32px;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara6110">Electrical Engineering and Computer Science, Oregon State University</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-linecap:butt;stroke-linejoin:round"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara6130">&lt;browtayl@oregonstate.edu&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/alga.png"
        xlink:href="alga.png"
@@ -734,8 +734,8 @@
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          style="font-size:32px;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara6110-0">NASA Jet Propulsion Laboratory, California Institute of Technology</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara6130-9">&lt;lewis.mcgibbney@gmail.com&gt;</flowPara></flowRoot>    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara6130-9">&lt;lewis.j.mcgibbney@jpl.nasa.gov&gt;</flowPara></flowRoot>    <image
        sodipodi:absref="/media/study/coal/agu/poster/OSU_horizontal_2C_O_over_B.png"
        xlink:href="OSU_horizontal_2C_O_over_B.png"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -762,17 +762,17 @@
      inkscape:label="Text Background"
      style="display:inline;stroke-linecap:butt;stroke-linejoin:round">
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.22546577;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.43798637;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4614"
        width="1200"
-       height="746.35638"
+       height="781.13898"
        x="1.9895197e-13"
        y="384" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:17.47942162;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:18.93847466;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4616"
        width="1056"
-       height="384"
+       height="450.78259"
        x="1200"
        y="384" />
     <rect
@@ -790,12 +790,12 @@
        x="5712"
        y="384" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:15.53355408;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:15.97082233;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4789"
        width="1200"
-       height="774.9245"
+       height="819.16663"
        x="0"
-       y="2448" />
+       y="2403.7581" />
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:8.7834692;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4795"
@@ -825,17 +825,17 @@
        x="3456"
        y="384" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:10.80714703;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.20983696;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5032-3"
        width="1055.9999"
-       height="792.83173"
+       height="575.78827"
        x="4656"
-       y="1061.9331" />
+       y="999.95367" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.99341679;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.52564907;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5032-1"
        width="1055.9999"
-       height="677.93311"
+       height="615.95367"
        x="4656"
        y="384" />
     <rect
@@ -847,33 +847,33 @@
        y="3216"
        ry="0" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:16.83859253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:17.0848484;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4636"
        width="1056"
-       height="768.00006"
+       height="790.6275"
        x="2400"
        y="384" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:6.69234562;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:7.50918388;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4795-5"
        width="1200"
-       height="445.84692"
+       height="561.3252"
        x="5712"
-       y="2002.1531" />
+       y="2152.4138" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:10.8643589;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:11.99216652;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4697"
        width="1200"
-       height="688.03192"
+       height="838.29279"
        x="5712"
        y="1314.1211" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:12.53398895;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:13.39721489;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4729"
        width="1056"
-       height="253.87909"
-       x="3456"
-       y="2448" />
+       height="290.05301"
+       x="4656"
+       y="1575.7419" />
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:13.3737545;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5185-6"
@@ -883,12 +883,12 @@
        y="1273.1384"
        ry="0" />
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:11.40517521;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.87843137;stroke:none;stroke-width:9.87717342;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5185-6-3"
        width="335.99988"
-       height="383.99994"
+       height="288.00003"
        x="1920"
-       y="2784"
+       y="2880"
        ry="0" />
   </g>
   <g
@@ -899,7 +899,8 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/aviris.jpg"
        xlink:href="aviris.jpg"
-       y="3222.9246"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="3258.9246"
        x="144"
        id="image768"
        preserveAspectRatio="none"
@@ -914,7 +915,7 @@
        preserveAspectRatio="none"
        id="image6128"
        x="144"
-       y="3519.5771" />
+       y="3555.5771" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/6338300043_1054508fd9_o.jpg"
        xlink:href="6338300043_1054508fd9_o.jpg"
@@ -936,7 +937,8 @@
     <image
        sodipodi:absref="/media/study/coal/agu/poster/avirisng.jpg"
        xlink:href="avirisng.jpg"
-       y="3222.9246"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       y="3258.9246"
        x="672"
        id="image833"
        preserveAspectRatio="none"
@@ -6007,7 +6009,7 @@
        preserveAspectRatio="none"
        id="image5997"
        x="672"
-       y="3519.5164" />
+       y="3555.5164" />
     <image
        sodipodi:absref="/media/study/coal/agu/poster/splib06_11in_3in_300dpi.png"
        xlink:href="splib06_11in_3in_300dpi.png"
@@ -6038,23 +6040,17 @@
            y="514.70837"
            style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara4592"
-         style="font-size:74.66666412px;stroke-linecap:butt;stroke-linejoin:round">Impacts of Coal Mining</flowPara><flowPara
+         style="font-size:74.66666412px;stroke-linecap:butt;stroke-linejoin:round">Mining Impacts</flowPara><flowPara
          id="flowPara4594"
          style="stroke-linecap:butt;stroke-linejoin:round" /><flowPara
          id="flowPara4596"
          style="stroke-linecap:butt;stroke-linejoin:round" /><flowPara
-         id="flowPara4598"
-         style="stroke-linecap:butt;stroke-linejoin:round">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus purus nibh, molestie in diam eu, vulputate pulvinar est. Vivamus eu libero elementum augue consequat egestas ac nec urna. Donec facilisis consectetur metus sit amet porttitor. Mauris ac elit interdum, tincidunt mi aliquam, posuere lacus. In pharetra ullamcorper sagittis. Ut finibus consectetur tincidunt. Cras vitae dui consequat, pellentesque justo ac, commodo ipsum.</flowPara><flowPara
-         id="flowPara4600"
-         style="stroke-linecap:butt;stroke-linejoin:round" /><flowPara
-         id="flowPara4602"
-         style="stroke-linecap:butt;stroke-linejoin:round">Nunc auctor vulputate purus quis pellentesque. Nulla ut gravida orci, ac faucibus metus. In quis diam ex. Nam eu lacus magna. Sed porttitor cursus egestas. Pellentesque et ipsum feugiat, pellentesque diam et, euismod dolor. Integer eu augue et tellus vestibulum gravida vel at elit. Nulla ut purus a nulla aliquet iaculis id et turpis.</flowPara><flowPara
-         id="flowPara4606"
-         style="stroke-linecap:butt;stroke-linejoin:round" /><flowPara
-         id="flowPara4608"
-         style="stroke-linecap:butt;stroke-linejoin:round" /><flowPara
          id="flowPara4610"
-         style="stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>    <flowRoot
+         style="stroke-linecap:butt;stroke-linejoin:round">Coal mining is known to have a range of significant impacts on the environment. Extraction and processing of coal generates a large quantity of waste which can affect water, soil, and air quality. Dispersal of coal mine waste due to erosion and improper management can contaminate the surrounding region for many kilometers. One of the most serious environmental effects of coal mining is acid mine drainage (AMD) in which oxidation of sulfidic mine wastes pollutes and acidifies streams and water bodies. Management of acid mine drainage requires monitoring to detect changes to chemistry over time [1].</flowPara><flowPara
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara5696"></flowPara><flowPara
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara5698">A suite of algorithms and documentation called Coal and Open-pit surface mining impacts on American Lands (COAL) was developed to to leverage publicly available data to identify evidence of mining and correlate it with environmental impacts over time [2] [3] [4].</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4626"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6062,15 +6058,15 @@
          id="flowRegion4628"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4630"
-           width="473.31964"
-           height="380.06476"
+           width="483.05872"
+           height="380.06479"
            x="1660.9631"
            y="352.38004"
            style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara4632"
          style="stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4634">Figure 0:</flowSpan> The San Juan Coal Mine and Generating Station operated by the Westmoreland Coal Company in Waterflow, New Mexico. Courtesy San Juan Citizens Alliance/Ecoflight [?].</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4634">Figure 1:</flowSpan> The San Juan Coal Mine and Generating Station operated by the Westmoreland Coal Company in Waterflow, New Mexico served as the case study for the initial development of COAL. Image Courtesy San Juan Citizens Alliance/Ecoflight [5].</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4670"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6086,7 +6082,7 @@
          id="flowPara4676"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4678">Figure 6:</flowSpan> The USGS Digital Spectral Library 06 [?] in AVIRIS-C format contains 1365 samples with 225 spectral bands. In this visualization, each column represents a sample and each row represents a band from near-ultraviolet (0.38 µm) above to short-wave infrared (2.5 µm) below. Samples include minerals, vegetation, and synthetic materials.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4678">Figure 8:</flowSpan> The USGS Digital Spectral Library 06 [15] in AVIRIS-C format contains 1365 samples with 225 spectral bands. In this visualization, each column represents a sample and each row represents a band from near-ultraviolet (0.38 µm) above to short-wave infrared (2.5 µm) below. Samples include minerals, vegetation, and synthetic materials.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4755"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6102,83 +6098,85 @@
          id="flowPara4761"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4763">Figure 8:</flowSpan> COAL environmental correlations of mine classifications within 10 m of flowlines in the National Hydrography Dataset (NHD) can be used to identify possible acid mine drainage sites.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4763">Figure 10:</flowSpan> COAL environmental correlations of mine classifications within 10 m of flowlines in the NHD can be used to identify possible acid mine drainage sites.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4771"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,92.05493)"><flowRegion
+       transform="translate(0,54.05493)"><flowRegion
          id="flowRegion4773"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4775"
            width="960"
-           height="697.94507"
+           height="1067.9451"
            x="192"
            y="2392"
            style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
          id="flowPara4777"
-         style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Imaging Spectrometry</flowPara><flowPara
+         style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Imaging Spectroscopy</flowPara><flowPara
          id="flowPara4779"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round" /><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4785">Nunc quis suscipit tellus. Etiam a quam et odio fermentum iaculis. Proin ut imperdiet libero, vitae tempus quam. Ut nec vestibulum odio, vel lobortis urna. Mauris ut sem id arcu mattis placerat vitae ut mauris. Ut ante justo, dignissim in viverra vel, lobortis non leo.</flowPara><flowPara
+         id="flowPara1270">Spectroscopy is the measurement of the reflectance of a substance in multiple wavelengths of light to identify its chemical composition. Imaging spectrometer remote sensing systems capture spectral imagery of a geographic region using aerial or satellite instruments at varying spatial resolutions. The Jet Propulsion Laboratory (JPL) collects and makes available a large volume of imaging spectrometer data. Orthocorrected, scaled-reflectance imaging spectrometer data is widely used to characterize mine waste environments [6]. Imaging spectroscopy is a potentially powerful, cost-effective, and noninvasive technique for environmental monitoring.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4791" /><flowPara
+         id="flowPara5709"></flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4732">Aliquam nec mattis augue. Duis lectus nisl, eleifend eu convallis ac, pellentesque quis dolor. Nunc dapibus bibendum nisl, vel venenatis felis pulvinar in. Fusce rutrum interdum orci. Sed ac massa est. In eget nisi semper tortor ultricies vehicula.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4734" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4793">Nunc quis suscipit tellus. Etiam a quam et odio fermentum iaculis. Proin ut imperdiet libero, vitae tempus quam. Ut nec vestibulum odio, vel lobortis urna. Mauris ut sem id arcu mattis placerat vitae ut mauris. Ut ante justo, dignissim in viverra vel, lobortis non leo.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4728" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4730">Aliquam nec mattis augue. Duis lectus nisl, eleifend eu convallis ac, pellentesque quis dolor. Nunc dapibus bibendum nisl, vel venenatis felis pulvinar in. Fusce rutrum interdum orci. Sed ac massa est. In eget nisi semper tortor ultricies vehicula.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5711">The COAL project implements a Python library called <flowSpan
+   style="-inkscape-font-specification:'Nimbus Mono L';font-family:'Nimbus Mono L';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6060">pycoal</flowSpan> to process data from the Airborne Visible/Infrared Imaging Spectrometer Classic (AVIRIS-C) and Next Generation (AVIRIS-NG). Georeferenced raster data in ENVI format is processed to classify minerals, identify mining, and correlate it with other environmental data sets. COAL data products are integrated with geographic information systems (GIS) to map the distribution of mine effects in proximity to water resources. Additional features include custom visible-light renderings and spectral plots to enhance interpretation.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4797"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:58%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="translate(-48,328)"><flowRegion
          id="flowRegion4799"
-         style="stroke-linecap:butt;stroke-linejoin:round"><rect
+         style="stroke-linecap:butt;stroke-linejoin:round;line-height:58%;"><rect
            id="rect4801"
            width="1008"
-           height="960"
+           height="3194"
            x="5808"
            y="3198"
-           style="stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
-         style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+           style="stroke-linecap:butt;stroke-linejoin:round;line-height:58%;" /></flowRegion><flowPara
+         style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round;line-height:58%;"
          id="flowPara4852">References</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round;line-height:58%;"
          id="flowPara4834" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4836">[1] Suspendisse aliquam id lacus non congue.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4838" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4854">[2] Suspendisse hendrerit nibh ac massa imperdiet luctus.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4840" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4856">[3] Vestibulum sed consequat tellus, eget commodo neque.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4842" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4858">[4] Praesent mi ipsum, viverra ac suscipit nec, eleifend et metus.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4844" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4860">[5] Curabitur sodales nisi et hendrerit varius.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4846" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4862">[6] Aenean justo leo, scelerisque eu nulla at, auctor commodo ex.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4848" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4864">[7] Morbi sit amet enim nec odio porttitor porta.</flowPara><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4850" /><flowPara
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4866">[8] Nulla facilisi. In in pellentesque velit.</flowPara></flowRoot>    <flowRoot
+         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round;font-size:16px;line-height:58%;"
+         id="flowPara4866"><flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6028">[1]</flowSpan> B. G. Lottermoser, <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Italic';font-family:'Nimbus Sans L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan6066">Mine Wastes: Characterization, Treatment and Environmental Impacts, Third Edition</flowSpan>. Berlin: Springer-Verlag, 2010.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6030">[2]</flowSpan> L. J. McGibbney, T. A. Brown, H. A. Clayton, and X. Wang, “capstone-coal/pycoal: Python toolkit for characterizing Coal and Open-pit surface mining impacts on American Lands,” 2017. [Online]. Available: https://github.com/capstone-coal/pycoal.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6032">[3]</flowSpan> L. J. McGibbney, T. A. Brown, H. A. Clayton, and X. Wang, “COAL - Coal and Open-pit surface mining impacts on American Lands,” 2017. [Online]. Available: https://capstone-coal.github.io/.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6034">[4]</flowSpan> L. J. McGibbney, T. A. Brown, H. A. Clayton, and X. Wang, “pycoal 0.5.0 documentation,” 2017. [Online]. Available: https://pycoal.readthedocs.io/en/latest/.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6036">[5]</flowSpan> San Juan Citizens Alliance/EcoFlight, “San Juan Generating Station and San Juan Mine,” Nov. 12, 2011. [Online]. Available: https://www.flickr.com/photos/wildearth_guardians/6338300043. [Accessed: Dec. 4, 2017].    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6038">[6]</flowSpan> G. E. Davies and W. M. Calvin, “Mapping acidic mine waste with seasonal airborne hyperspectral imagery at varying spatial scales: An evaluation of future satellite hyperspectral imagery for hazardous mine waste monitoring,” <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Italic';font-family:'Nimbus Sans L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan6068">Environmental Earth Sciences</flowSpan>, vol. 76, no. 432, 2017. Available: https://doi.org/10.1007/s12665-017-6763-x.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6040">[7]</flowSpan> Jet Propulsion Laboratory, “AVIRIS - Airborne Visible / Infrared Imaging Spectrometer,” 2017. [Online]. Available: https://aviris.jpl.nasa.gov/. [Accessed: Dec. 4, 2017].    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6042">[8]</flowSpan> Jet Propulsion Laboratory, “AVIRIS-Next Generation,” 2017. [Online]. Available: https://aviris-ng.jpl.nasa.gov/. [Accessed: Dec. 4, 2017].    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6044">[9]</flowSpan> Jet Propulsion Laboratory, “ASTER: Advanced Spaceborne Thermal Emission and Reflection Radiometer,” 2004. [Online]. Available: https://asterweb.jpl.nasa.gov/. [Accessed: Dec. 4, 2017].    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6046">[10]</flowSpan> Jet Propulsion Laboratory, “Welcome to HyspIRI Mission Study Website — Hyperspectral Infrared Imager,” 2017. [Online]. Available: https://hyspiri.jpl.nasa.gov/. [Accessed: Dec. 4, 2017].    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6048">[11]</flowSpan> Jet Propulsion Laboratory, AVIRIS-NG Flight: ang20150420t, Science Data. Available: https://avirisng.jpl.nasa.gov/cgi/flights_15.cgi?step=view_flightlog&amp;flight_id=ang20150420t.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6050">[12]</flowSpan> U.S. Geological Survey, National Geospatial Program, 20160314, USGS NED 1/3 arc-second Contours for Shiprock E, New Mexico 20160314 1 x 1 degree FileGDB 10.1: U.S. Geological Survey. Available: ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Elev/GDB/Elev_322228_Shiprock_E_1X1.zip.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6052">[13]</flowSpan> U.S. Geological Survey, National Geospatial Technical Operations Center, 20170326, USGS National Transportation Dataset (NTD) for New Mexico 20170326 State or Territory FileGDB 10.1: U.S. Geological Survey. Available: ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Tran/Shape/TRAN_35_New_Mexico_GU_STATEORTERRITORY.zip.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6054">[14]</flowSpan> U.S. Geological Survey, National Geospatial Program, 20160923, USGS National Hydrography Dataset (NHD) Best Resolution 20160923 for New Mexico State or Territory FileGDB 10.1 Model Version 2.2.1: U.S. Geological Survey. Available: ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Hydrography/NHD/State/HighResolution/Shape/NHD_H_35_Shape.zip.    <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Bold';font-family:'Nimbus Sans L';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan6056">[15]</flowSpan> R. N. Clark, G. A. Swayze, R. Wise, E. Livo, T. Hoefen, R. Kokaly, and S. J. Sutley, “USGS digital spectral library splib06a,” <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Italic';font-family:'Nimbus Sans L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan6070">U.S. Geological Survey, Digital Data Series</flowSpan> 231, 2007. Available: http://speclab.cr.usgs.gov/spectral.lib06.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4903"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6194,7 +6192,7 @@
          id="flowPara4909"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4911">Figure 3:</flowSpan> A three-dimensional &quot;hypercube&quot; visualization of  imaging spectrometer data displaying spectral bands.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4911">Figure 4:</flowSpan> A three-dimensional “hypercube” visualization of imaging spectrometer data displaying spectral bands.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4698"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6212,7 +6210,7 @@
        xml:space="preserve"
        id="flowRoot4718"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-576,35.41819)"><flowRegion
+       transform="translate(-576,61.41819)"><flowRegion
          id="flowRegion4720"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4722"
@@ -6224,7 +6222,7 @@
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4718"><flowSpan
    id="flowSpan4726"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Figure 2: </flowSpan>(Top left) The Airborne Visible/InfraRed Imaging Spectrometer Classic (AVIRIS-C) and (top right) Next Generation (AVIRIS-NG) instruments are operated by JPL on an aerial platform [?][?]. (Bottom left) The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) and (bottom right) the Hyperspectral Infrared Imager (HyspIRI) are satellite-mounted instrument missions [?][?].</flowPara></flowRoot>    <flowRoot
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Figure 2: </flowSpan>(Top left) The AVIRIS-C and (top right) AVIRIS-NG instruments are operated by JPL on an aerial platform [7] [8]. (Bottom left) The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) and (bottom right) the Hyperspectral Infrared Imager (HyspIRI) are satellite-mounted instrument missions [9] [10].</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4998"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6242,15 +6240,15 @@
          style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara5008" /><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5014">In hac habitasse platea dictumst. Nullam ac malesuada justo. Morbi quam purus, egestas in ex nec, aliquet fringilla velit. Morbi rhoncus nunc quis dolor tempor pulvinar. Ut scelerisque tortor sit amet lorem aliquet, sit amet semper sapien porttitor. Aliquam blandit metus suscipit, feugiat lorem sed, maximus dolor. Pellentesque imperdiet tincidunt orci sed malesuada. Nullam id lorem ac libero vestibulum laoreet at et nibh. Nam sed purus vehicula, gravida mauris ut, laoreet orci. Etiam id leo a quam vestibulum malesuada. Ut suscipit elit dolor, sit amet tincidunt justo interdum ut. Suspendisse et volutpat mauris. Donec pharetra laoreet commodo. </flowPara><flowPara
+         id="flowPara1279">Imaging spectrometer data must be processed computationally to identify the mineral detected at each pixel. Multiple classification algorithms exist based on statistical and machine learning principles. One prominent algorithm is Spectral Angle Mapper (SAM) classification which calculates a confidence value between the measured reflectance and each class in a spectral library. Choosing the class with the highest confidence value is an effective method for identifying minerals in a scene. Accuracy may vary according to the resolution of the input data, the detail of the spectral library, the correctness of the algorithm, and other factors.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5016" /><flowPara
+         id="flowPara5745"></flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5018">Vivamus nec luctus est. Fusce enim leo, rutrum nec augue id, sollicitudin tincidunt nulla. Etiam eu mattis nunc. Sed non augue semper, tincidunt libero viverra, venenatis felis. Donec eu fringilla mauris. Nullam ac vestibulum quam. Nullam in ligula suscipit, aliquet magna non, laoreet est. Nulla nunc nulla, luctus quis turpis ut, blandit sodales quam. Duis sit amet purus sapien. Etiam sed nisl id metus scelerisque consectetur vitae ut purus. Mauris vulputate quis turpis non laoreet. Nullam convallis rhoncus vulputate.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5747">The COAL Mineral Classification API provides methods to classify minerals and generate visible-light representations using spectral data. Reference data in a spectral library can be used to classify minerals in an image using SAM classification. A subset of the spectral library or confidence threshold may optionally be specified to filter the results. True or false color renderings may be created from visible or other wavelengths to aid analysis. COAL data products use georeferenced ENVI raster images for input and output to enable GIS integration.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4998-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2593.9996,-1842.1338)"><flowRegion
+       transform="translate(2593.9996,-1904.1132)"><flowRegion
          id="flowRegion5000-1"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect5002-0"
@@ -6264,11 +6262,11 @@
          style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara5008-4" /><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5014-0">In hac habitasse platea dictumst. Nullam ac malesuada justo. Morbi quam purus, egestas in ex nec, aliquet fringilla velit. Morbi rhoncus nunc quis dolor tempor pulvinar. Ut scelerisque tortor sit amet lorem aliquet, sit amet semper sapien porttitor. Aliquam blandit metus suscipit, feugiat lorem sed, maximus dolor. Pellentesque imperdiet tincidunt orci sed malesuada. Nullam id lorem ac libero vestibulum laoreet at et nibh. Nam sed purus vehicula, gravida mauris ut, laoreet orci. Etiam id leo a quam vestibulum malesuada. Ut suscipit elit dolor, sit amet tincidunt justo interdum ut. Suspendisse et volutpat mauris. Donec pharetra laoreet commodo. </flowPara><flowPara
+         id="flowPara1292">More sophisticated analysis may be accomplished by correlating identified mines with other geographic data sets. Publicly available data in geographic vector format include mine permit boundaries, transportation, elevation, and hydrography. Correlating mine impacts with such features can enhance understanding of the extent of and potential for environmental damage.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5016-3" /><flowPara
+         id="flowPara5763"></flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5018-9">Vivamus nec luctus est. Fusce enim leo, rutrum nec augue id, sollicitudin tincidunt nulla. Etiam eu mattis nunc. Sed non augue semper, tincidunt libero viverra, venenatis felis. Donec eu fringilla mauris. Nullam ac vestibulum quam. Nullam in ligula suscipit, aliquet magna non, laoreet est. Nulla nunc nulla, luctus quis turpis ut, blandit sodales quam. Duis sit amet purus sapien. Etiam sed nisl id metus scelerisque consectetur vitae ut purus. Mauris vulputate quis turpis non laoreet. Nullam convallis rhoncus vulputate.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5765">The COAL Environmental Correlation API allows mine proxy pixels to be intersected with features in a vector data set such as flowlines in the National Hydrography Dataset (NHD). Mine pixels within a given distance of streams and water bodies can be selected to identify sites with a high potential for water pollution.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4998-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6286,11 +6284,11 @@
          style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara5008-8" /><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5014-05">In hac habitasse platea dictumst. Nullam ac malesuada justo. Morbi quam purus, egestas in ex nec, aliquet fringilla velit. Morbi rhoncus nunc quis dolor tempor pulvinar. Ut scelerisque tortor sit amet lorem aliquet, sit amet semper sapien porttitor. Suspendisse et volutpat mauris. Donec pharetra laoreet commodo. </flowPara><flowPara
+         id="flowPara5018-6">Mineral classified data is further processed to identify evidence of mining activity. Many possible methods exist to locate mining operations by quantifying large-scale patterns of human alteration and chemical weathering or identifying individual pixels whose composition is known to be associated with coal mining.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5016-6" /><flowPara
+         id="flowPara5754"></flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5018-6">Vivamus nec luctus est. Fusce enim leo, rutrum nec augue id, sollicitudin tincidunt nulla. Etiam eu mattis nunc. Sed non augue semper, tincidunt libero viverra, venenatis felis. Duis sit amet purus sapien. Etiam sed nisl id metus scelerisque consectetur vitae ut purus. Mauris vulputate quis turpis non laoreet. Nullam convallis rhoncus vulputate.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5756">The COAL Mining Identification API uses known mining proxy classes to identify possible sites of mine waste or acid mine drainage in a mineral classified image. The distribution of mining proxy classes is a useful metric for mapping the environmental impact of coal mining.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5189"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6306,7 +6304,7 @@
          id="flowPara5195"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan5197">Figure 5:</flowSpan> In SAM classification, each pixel is compared with each sample in the spectral library (Figure 6) and classified as the sample with the highest confidence value above some threshold.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan5197">Figure 7:</flowSpan> In SAM classification, each pixel is compared with each sample in the spectral library (Figure 8) and classified as the sample with the highest confidence value above some threshold.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5199"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -6374,7 +6372,7 @@
          id="flowPara4650"
          style="stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';text-align:start;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4652">Figure 7:</flowSpan> Visualization of COAL mineral classifications in the vicinity of the generating station.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4652">Figure 5:</flowSpan> Visualization of COAL mineral classifications corresponding to various land surface types in the vicinity of the San Juan generating station.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4914"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -6391,7 +6389,7 @@
        xml:space="preserve"
        id="flowRoot4797-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-48,-1125.8469)"><flowRegion
+       transform="translate(-48,-975.58616)"><flowRegion
          id="flowRegion4799-2"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4801-9"
@@ -6405,11 +6403,11 @@
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara5189" /><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara5198">Nullam non mauris varius odio rhoncus facilisis. Nullam eu imperdiet felis, in tincidunt lorem. Aenean in tellus a ex gravida molestie fermentum nec ipsum. Sed venenatis rhoncus nibh. Fusce fringilla eros ut magna mattis fermentum. Curabitur id urna eu eros sodales interdum. Aenean in tellus a ex gravida molestie fermentum nec ipsum. Sed venenatis rhoncus nibh. Fusce fringilla eros ut magna mattis fermentum. Curabitur id urna eu eros sodales interdum. Aenean in tellus a ex gravida molestie fermentum nec ipsum.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5198">The COAL project was originally developed as a 2016—2017 senior capstone collaboration between scientists at JPL and undergraduate computer science students at Oregon State University (OSU). The contributions of fellow OSU collaborators Heidi Ann Clayton and Xiaomei Wang (王笑梅) are hereby noted. Appreciations are extended to OSU teaching assistant Vedanth Narayan, OSU professors Kirsten Winters and D. Kevin McGrath, and JPL colleague Kim Whitehall. COAL is honored to have received the CH2M Multidisciplinary Collaboration Award and recognition from OSU. Investment by the NSF in advanced computing infrastructure through XSEDE Startup Allocation EAR170010 is acknowledged for enabling continued foundational COAL research and development.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4699"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1533.7441,-875.79201)"><flowRegion
+       transform="translate(1533.7441,-921.79201)"><flowRegion
          id="flowRegion4701"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4703"
@@ -6422,20 +6420,22 @@
          style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Conclusions</flowPara><flowPara
          style="font-size:74.66666412px;fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4709" /><flowPara
-         id="flowPara4707"
-         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et mollis eros. Aliquam rhoncus elementum augue, et interdum lacus imperdiet in. Donec ornare, orci sed mollis tempus, eros ex convallis orci, eget tincidunt eros eros eu nisl. Cras a nunc tortor. Suspendisse at magna aliquam mi pharetra congue et a mi.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4711" /><flowPara
+         id="flowPara4717">Imaging spectroscopy, mineral classification, mining identifcation, and environmental correlation constitute an effective technique for environmental monitoring. The COAL project implemented in the first stage of research and development a productive method for processing imaging spectrometer data to quantify the impacts of coal mining on water resources. Further work will extend COAL functionality to support additional instruments, classification algorithms, higher performance computation, and other enhancements.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4713">Vivamus porta convallis lorem, sed tempor mi fringilla eu. In hac habitasse platea dictumst. Maecenas eu mi dui. Nullam a consequat lectus. Proin velit dolor, consequat luctus nisl eget, fringilla aliquam diam. Mauris elementum malesuada nulla ut eleifend. Phasellus est ex, elementum eleifend sodales at, iaculis quis purus. Nam cursus gravida velit, aliquet mattis felis interdum et.</flowPara><flowPara
+         id="flowPara5781"></flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4715" /><flowPara
+         id="flowPara5783">The COAL case study data from the San Juan Coal Mine gives evidence that the mine and its surroundings could be impacted by acid mine drainage and other environmental effects warranting more detailed remote sensing and <flowSpan
+   style="-inkscape-font-specification:'Nimbus Sans L Italic';font-family:'Nimbus Sans L';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan6064">in situ</flowSpan> monitoring. Long-term monitoring is necessary to distinguish natural from anthropogenic pollution. The case study indicates that realistic data can be successfully processed using COAL algorithms.</flowPara><flowPara
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
-         id="flowPara4717">Etiam condimentum lorem et lectus dictum, eget sodales lorem consequat. Mauris id urna ipsum. Donec faucibus mattis egestas. Quisque maximus dapibus leo, ut condimentum sem laoreet nec. Phasellus dictum consequat enim, nec vulputate ex porta et.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5785"></flowPara><flowPara
+         style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
+         id="flowPara5787">It is believed that the software and methodology implemented in this research could be generalized to other environmental monitoring applications throughout the world. The COAL project ultimately aims to process spectral imagery from various instruments to provide extensive and up-to-date coverage of coal mine impacts in the world over time.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4719"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3312,816.00007)"><flowRegion
+       transform="translate(4512,-56.257987)"><flowRegion
          id="flowRegion4721"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect4723"
@@ -6447,9 +6447,9 @@
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"
          id="flowPara4740"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4727">Figure 1:</flowSpan> (Background) COAL mining classifications, visible-light imagery, and geography of the San Juan Coal Mine. Orange and red pixels were identified as proxy classes for coal mining. Observe their distribution around ponds, reservoirs, streams, and mine facilities. The imagery was from AVIRIS-NG Flight <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan4735">ang20150420t</flowSpan> [?] and the geographic data was from The National Map [?].</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4727">Figure 9:</flowSpan> (Background) COAL mining classifications, visible-light imagery, and geography of the San Juan Coal Mine. Orange and red pixels were identified as proxy classes for coal mining. Observe their distribution around ponds, reservoirs, streams, and mine facilities. The imagery was from AVIRIS-NG Flight <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';stroke-linecap:butt;stroke-linejoin:round"
+   id="flowSpan4735">ang20150420t</flowSpan> [11] and the geographic data was from The National Map [12] [13] [14].</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5189-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6465,11 +6465,11 @@
          id="flowPara5195-5"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan5197-6">Figure ?:</flowSpan> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac massa tristique, blandit nisl sit amet, ullamcorper enim. Maecenas nisl nulla, elementum eget enim blandit, hendrerit euismod augue.</flowPara></flowRoot>    <flowRoot
+   id="flowSpan5197-6">Figure 6:</flowSpan> In this COAL mining classified image, mine waste pixels coincide with the edges of a tailing pond seen in visible light. Correspondence between known and predicted mine waste locations gives confidence in the accuracy of mining classification. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5189-7-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-514.52174,-818.02032)"><flowRegion
+       transform="translate(-514.52174,-714.02032)"><flowRegion
          id="flowRegion5191-5-7"
          style="stroke-linecap:butt;stroke-linejoin:round"><rect
            id="rect5193-3-5"
@@ -6481,5 +6481,16 @@
          id="flowPara5195-5-3"
          style="fill:#ffffff;stroke-linecap:butt;stroke-linejoin:round"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L Bold';stroke-linecap:butt;stroke-linejoin:round"
-   id="flowSpan5197-6-5">Figure ?:</flowSpan> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac massa tristique, blandit nisl sit amet, ullamcorper enim. Maecenas nisl nulla, elementum eget enim blandit, hendrerit. </flowPara></flowRoot>  </g>
+   id="flowSpan5197-6-5">Figure 3:</flowSpan> The unique spectral reflectance graphs of three coal mining proxy classes in the USGS Digital Spectral Library 06.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Nimbus Sans L';-inkscape-font-specification:'Nimbus Sans L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4114.7827"
+       y="686.6087"
+       id="text1283"><tspan
+         sodipodi:role="line"
+         id="tspan1281"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         x="4114.7827"
+         y="711.242" /></text>
+  </g>
 </svg>
